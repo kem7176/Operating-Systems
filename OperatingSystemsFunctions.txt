@@ -29,10 +29,13 @@ Depending on what status you want your computer to be in, you can either shut th
 put it in sleep mode or hibernation mode. 
 
 Shut Off
-Simply pressing or holding down the power button will suffice, as well as locating the shut down, or power off button in the taskbar. All operations will cease to run. 
+Simply pressing or holding down the power button will suffice, as well as locating the shut down, or power off button in the taskbar. 
+All operations will cease to run. 
 
 Sleep Mode
-Usually occurs when you step away from your computer for a certain time (depnding on if you have this option set up), or if you choose the sleep mode option from your taskbar. The computer is put in a low-power state, with anything you left open on the screen, left the way it was. If the computer shuts off somehow, any unsaved work will be lost. 
+Usually occurs when you step away from your computer for a certain time (depnding on if you have this option set up), or if you choose the sleep mode option from your taskbar. 
+The computer is put in a low-power state, with anything you left open on the screen, left the way it was. 
+If the computer shuts off somehow, any unsaved work will be lost. 
 
 Hibernation Mode
 Hibernation Mode is the same concept as Sleep Mode, but it saves any open documents and programs to the internal hard drive, in case power is lost. 
