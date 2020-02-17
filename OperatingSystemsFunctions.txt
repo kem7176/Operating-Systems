@@ -1,0 +1,10 @@
+Operating Systems Functions
+
+
+Starting a Computer 
+In order to excecute this operation, you need to press the power button. 
+What this does is it allows a power supply a current to the circuits of the computer.
+As the computer is booting, internal processes are taking place to make sure everything is functioning properly,
+if not, an error message may be displayed.
+If a successful boot up occurs, your UI will display on the page and you're ready to go!
+
