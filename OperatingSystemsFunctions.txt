@@ -9,6 +9,7 @@ if not, an error message may be displayed.
 If a successful boot up occurs, your UI will display on the page and you're ready to go!
 
 
+
 User Interface
 The UI allows you to control how you enter data, instructions and how information is displayed on the page.
 There are two types of interface, Graphical User Interface, and Command-Line Interface.
@@ -21,3 +22,17 @@ Command-Line Interface
 Command-Line Interface allows the user to go "behind-the-scenes" and use a command language to execute functions with 
 short keywords or abbreviations. 
 This is used to configure the computer and among others, troubleshoot system problems.
+
+
+Shutting down a Computer
+Depending on what status you want your computer to be in, you can either shut the computer off, 
+put it in sleep mode or hibernation mode. 
+
+Shut Off
+Simply pressing or holding down the power button will suffice, as well as locating the shut down, or power off button in the taskbar. All operations will cease to run. 
+
+Sleep Mode
+Usually occurs when you step away from your computer for a certain time (depnding on if you have this option set up), or if you choose the sleep mode option from your taskbar. The computer is put in a low-power state, with anything you left open on the screen, left the way it was. If the computer shuts off somehow, any unsaved work will be lost. 
+
+Hibernation Mode
+Hibernation Mode is the same concept as Sleep Mode, but it saves any open documents and programs to the internal hard drive, in case power is lost. 
