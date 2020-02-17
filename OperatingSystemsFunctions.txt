@@ -8,3 +8,16 @@ As the computer is booting, internal processes are taking place to make sure eve
 if not, an error message may be displayed.
 If a successful boot up occurs, your UI will display on the page and you're ready to go!
 
+
+User Interface
+The UI allows you to control how you enter data, instructions and how information is displayed on the page.
+There are two types of interface, Graphical User Interface, and Command-Line Interface.
+
+Graphical User Interface (GUI).
+GUI is the face of the OS. It is what you interact with on the screen, allowing you to perform many functions including
+touching, pointing, and tapping. 
+
+Command-Line Interface
+Command-Line Interface allows the user to go "behind-the-scenes" and use a command language to execute functions with 
+short keywords or abbreviations. 
+This is used to configure the computer and among others, troubleshoot system problems.
